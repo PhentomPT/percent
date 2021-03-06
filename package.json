@@ -13,9 +13,8 @@
   "devDependencies": {
     "@vue/cli": "^4.5.11",
     "@vue/cli-service-global": "^4.5.11",
+    "node-sass": "^5.0.0",
     "sass-loader": "^10.1.1"
   },
-  "dependencies": {
-    "node-sass": "^5.0.0"
-  }
+  "dependencies": {}
 }
